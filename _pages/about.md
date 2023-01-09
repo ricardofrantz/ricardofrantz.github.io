@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researches since July 2022 at the [Institut Jean-Le-Rond-d'Alembert](http://www.dalembert.upmc.fr/ijlrda/), a large laboratory of the [Sorbonne University Pierre and Marie Curie Campus](https://goo.gl/maps/DNvQgSaevBBmWtos7) in Paris, France.
+I am a postdoctoral researches since July 2022 at the [Institut Jean-Le-Rond-d'Alembert](http://www.dalembert.upmc.fr/ijlrda/), a large laboratory at [Sorbonne Université](https://goo.gl/maps/DNvQgSaevBBmWtos7) in Paris, France. Under the supervision of Taraneh Sayadi and collaborators we are developing preconditioners for Krylov methods based on Domain Decomposition Methods (DDM) in [Julia](https://julialang.org/) language.
 
 In April 2022, I defended my Ph.D. thesis entitled [Instabilities and Transition to Turbulence in Periodic Flows
 ](https://www.researchgate.net/publication/362536309_Instabilities_and_transition_to_turbulence_in_periodic_flows)." This work was done under the joint supervision of [Jean-Christophe Loiseau](https://loiseaujc.github.io/) and [Jean-Christophe Robinet](https://scholar.google.fr/citations?user=xlpB1PIAAAAJ&hl=fr). The core of my work lies in the development and implementation of Newton-Krylov and eigenvalue solvers for large systems such as discrete Navier-Stokes equations. The results are available in [nekStab](https://github.com/nekStab), our in-house toolbox for large-scale stability analysis in [Nek5000](https://github.com/Nek5000).
