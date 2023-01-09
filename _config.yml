@@ -82,8 +82,8 @@ analytics:
 author:
   name             : #"Ricardo Frantz"
   avatar           : "burg_eltz_zoom.JPG"
-  bio              : "PostDoc"
-  location         : "Sorbonne University"
+  bio              : "Postdoctoral Researcher"
+  location         : "Sorbonne University" # https://goo.gl/maps/DNvQgSaevBBmWtos7
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VzovS2oAAAAJ&hl=en"
