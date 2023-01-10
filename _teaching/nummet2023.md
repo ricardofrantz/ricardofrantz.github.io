@@ -1,8 +1,8 @@
 ---
 title: "Numerical Methods"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/nummet2023
+type: "Masters course"
+permalink: 
 venue: "University 1, Department"
 date: 2023-01-01
 ---
