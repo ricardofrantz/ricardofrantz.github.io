@@ -2,15 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Codes"
+    url: /portfolio/
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Codes"
-    url: /portfolio/
-    
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
 
 #  - title: "Talks"
 #    url: /talks/   
