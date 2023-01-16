@@ -1,5 +1,5 @@
 ---
-permalink: /books/
+permalink: /resources/
 title: "Books, Videos and free resources"
 author_profile: true
 redirect_from: 
