@@ -9,17 +9,20 @@ main:
   - title: "Teaching"
     url: /teaching/
     
+  - title: "Guides"
+    url: /guides/
+ 
   - title: "Resources"
-    url: /markdown/
+    url: /resources/
 
-  - title: "Talks"
-    url: /talks/   
+#  - title: "Talks"
+#    url: /talks/   
     
-  - title: "Posts"
-    url: /posts/
+#  - title: "Posts"
+#    url: /posts/
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
