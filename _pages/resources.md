@@ -86,3 +86,24 @@ Video gallery
 - [eFluids Media Gallery (Videos and Photos)](http://media.efluids.com/galleries/all)
 - [National Committee for Fluid Mechanics Films (NCFMF)](https://web.mit.edu/hml/ncfmf.html)
 - [Multimedia Fluid Mechanics](https://www.cambridge.org/core/homsy/)
+
+
+Codes and repositories
+=======
+- https://github.com/lento234/awesome-fluid-dynamics
+- https://github.com/orgs/mitmath/repositories
+- https://github.com/rjwalia/Navier-Stokes-Numerical-Solution-Using-FDM-FVM-LBM-Solver-Python-Scripting
+- https://github.com/Ceyron/machine-learning-and-simulation\
+- https://github.com/surajp92/CFD_Julia
+- https://github.com/DedalusProject/dedalus
+- https://colab.research.google.com/github/google/jax-cfd/blob/main/notebooks/collocated_demo.ipynb
+
+
+
+Laboratories, workshops and summer schools
+=======
+- [International Centre for Mechanical Sciences (CISM)](https://www.cism.it/en/activities/courses/)
+- [GDR MePhy](https://blog.espci.fr/mephy/)
+- [daLembert](http://www.dalembert.upmc.fr/ijlrda/)
+- [LMFL](https://lmfl.cnrs.fr/en/agenda/)
+- [LMFT](https://www.imft.fr/en/accueil-english/)
