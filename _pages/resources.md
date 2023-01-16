@@ -27,13 +27,13 @@ Numerical Methods
 Dynamical Systems
 ------
 - [ChaosBook](https://chaosbook.org)
-- Strogatz S. (2018) [Nonlinear dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) ([pdf](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf))
-- Gleick, J. (2008) Chaos: Making a New Science
+- Gleick, J. (2008). Chaos: Making a New Science
+- Strogatz S. (2018). [Nonlinear dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) ([pdf](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf))
 
 Stability Analysis
 ------
-- Schmid and Henningson (2001) [Stability and Transition in Shear Flows](https://link.springer.com/book/10.1007/978-1-4613-0185-1)
-- Charru, F. (2011) [Hydrodynamic Instabilities]() [French version](http://www.lmm.jussieu.fr/~hoepffner/enseignement/charru.pdf)
+- Schmid and Henningson (2001). [Stability and Transition in Shear Flows](https://link.springer.com/book/10.1007/978-1-4613-0185-1)
+- Charru, F. (2011). [Hydrodynamic Instabilities]() ([French pdf](http://www.lmm.jussieu.fr/~hoepffner/enseignement/charru.pdf))
 
 Turbulence
 ------
