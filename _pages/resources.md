@@ -21,8 +21,8 @@ Numerical Methods
 - Antoulas, A. (2009) [Approximation of Large-Scale Dynamical Systems](https://epubs.siam.org/doi/book/10.1137/1.9780898718713)
 - Moin, P. (2010). [Fundamentals of engineering numerical analysis.]() ([pdf](https://sv.20file.org/up1/1389_0.pdf))
 
-- Fortran recipes 77
-- Fortran recipes 90
+- The Art of Scientific Computing: [Vol. 1: Numerical Recipes in Fortran 77](http://s3.amazonaws.com/nrbook.com/book_F210.html) (1992) ([pdf](https://websites.pmc.ucsc.edu/~fnimmo/eart290c_17/NumericalRecipesinF77.pdf))
+- The Art of Scientific Computing: [Vol. 2: Numerical Recipes in Fortran 90](http://numerical.recipes/oldverswitcher.html) (1996) ([pdf](http://www.elch.chem.msu.ru/tch/group/FortranBooks/NumericalRecipesinF90.pdf))
 
 Dynamical Systems
 ------
@@ -43,11 +43,10 @@ Turbulence
  
 Other texts
 ------
-- [A curated list of repositories related to fluid dynamics](https://github.com/lento234/awesome-fluid-dynamics) by L. Manickathan
 - [SIAM Top 10 Algorithms](http://web.tecnico.ulisboa.pt/~mcasquilho/CD_Casquilho/legacy/PRINT/NotebookSC_1LP_22pp.pdf) by B. A. Cipra
 - [The Big Six Matrix Factorizations](https://www.cs.fsu.edu/~lacher/courses/COT4401/notes/cise_v2_i1/matrix.pdf) by G. W. Stewart
 
-[Laurete Tuckerman Blog](https://blog.espci.fr/laurette/)
+Laurete Tuckerman [Blog](https://blog.espci.fr/laurette/)
 -----
 - [Anglais pour scientifiques français](https://blog.espci.fr/laurette/anglais-pour-scientifiques-francais/)
 - [Math or physics?](https://blog.espci.fr/laurette/files/2021/03/NPR7.pdf)
