@@ -1,25 +1,25 @@
 ---
-title: 'Books'
+title: 'Books, Videos and free materials'
 date: 2023
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/books
 tags:
-  - cool posts
-  - category1
-  - category2
 ---
 Books and texts
 ======
-These are interesting books in Fluid Mechanics, Turbulence and Dynamical Systems:
+
+Here are some key books in Fluid Mechanics, Turbulence and Dynamical Systems:
 
 Numerical Methods
 ------
+- Trefethen, N. (1994). [Finite Difference and Spectral Methods for Ordinary and Partial Differential Equations](https://people.maths.ox.ac.uk/trefethen/pdetext.html)
 - Barrett *et al.* (1994). Templates for the solution of linear systems ([pdf](https://netlib.org/templates/templates.pdf) | [html](https://netlib.org/linalg/html_templates/node4.html))
+- Trefethen and Bau (1997). [Numerical linear algebra](https://people.maths.ox.ac.uk/trefethen/text.html) ([pdf]())
 - Bai *et al.* (2000). Templates for the solution of algebraic eigenvalue problems. ([pdf](https://epubs.siam.org/doi/pdf/10.1137/1.9780898719581.fm) | [html](https://netlib.org/utk/people/JackDongarra/etemplates/node5.html))
+- Trefethen, N. (2000). [Spectral Methods in MATLAB](https://people.maths.ox.ac.uk/trefethen/spectral.html)
 - Ferziger *et al.* (2002). [Computational methods for fluid dynamics.](https://link.springer.com/book/10.1007/978-3-642-56026-2) ([pdf](https://www.researchgate.net/profile/Ghassan-Smaisim/post/FEM_mesh_generator/attachment/59d655b479197b80779acc79/AS%3A526929528274950%401502641197635/download/111+ferziger+peric+2002+computational+methods+for+fluid+dynamics+.pdf))
 - Saad, Y. (2003). [Iterative methods for sparse linear systems.]() ([pdf](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf))
+- Antoulas, A. (2009) [Approximation of Large-Scale Dynamical Systems](https://epubs.siam.org/doi/book/10.1137/1.9780898718713)
 - Moin, P. (2010). [Fundamentals of engineering numerical analysis.]() ([pdf](https://sv.20file.org/up1/1389_0.pdf))
-
-
 
 Dynamical Systems
 ------
