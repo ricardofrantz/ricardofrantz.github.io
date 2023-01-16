@@ -21,6 +21,9 @@ Numerical Methods
 - Antoulas, A. (2009) [Approximation of Large-Scale Dynamical Systems](https://epubs.siam.org/doi/book/10.1137/1.9780898718713)
 - Moin, P. (2010). [Fundamentals of engineering numerical analysis.]() ([pdf](https://sv.20file.org/up1/1389_0.pdf))
 
+- Fortran recipes 77
+- Fortran recipes 90
+
 Dynamical Systems
 ------
 - [ChaosBook](https://chaosbook.org)
