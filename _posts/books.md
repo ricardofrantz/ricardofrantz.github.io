@@ -1,6 +1,6 @@
 ---
 title: 'Books, Videos and free materials'
-date: 2023
+date: 16/01/2023
 permalink: /posts/books
 tags:
 ---
@@ -23,9 +23,14 @@ Numerical Methods
 
 Dynamical Systems
 ------
+- [ChaosBook](https://chaosbook.org)
+- Strogatz S. (2018) [Nonlinear dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) ([pdf](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf))
+- Gleick, J. (2008) Chaos: Making a New Science
 
 Stability Analysis
 ------
+- Schmid and Henningson (2001) [Stability and Transition in Shear Flows](https://link.springer.com/book/10.1007/978-1-4613-0185-1)
+- Charru, F. (2011) [Hydrodynamic Instabilities]() [French version](http://www.lmm.jussieu.fr/~hoepffner/enseignement/charru.pdf)
 
 Turbulence
 ------
@@ -48,7 +53,7 @@ Other
 - [Teaching Materials](https://blog.espci.fr/laurette/explanatory/)
 
 
-Video
+Videos
 ======
 
 
