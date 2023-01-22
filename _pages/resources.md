@@ -36,8 +36,9 @@ Stability Analysis
 - Schmid & Henningson (2001). [Stability and Transition in Shear Flows](https://link.springer.com/book/10.1007/978-1-4613-0185-1)
 - Charru, F. (2011). [Hydrodynamic Instabilities]() ([French pdf](http://www.lmm.jussieu.fr/~hoepffner/enseignement/charru.pdf))
 
-Turbulence
+Turbulence and Fluid Mechanics
 ------
+- Landau & Lifshitz (1959). Volume 6 of Course of Theoretical Physics: Fluid Mechanics ([pdf](https://phys.au.dk/~srf/hydro/Landau+Lifschitz.pdf))
 - Tennekes & Lumley (1972). [A First Course in Turbulence](https://mitpress.mit.edu/9780262536301/a-first-course-in-turbulence/)
 - Pope, S. (2000). [Turbulent Flows](https://pope.mae.cornell.edu/TurbulentFlows.html) 
 - Lesieur, M (2008). [Turbulence in Fluids](https://link.springer.com/book/10.1007/978-1-4020-6435-7)
