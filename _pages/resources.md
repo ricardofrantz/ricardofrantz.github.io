@@ -64,6 +64,7 @@ Videos
 YouTube channels
 -------
 - [@AustralasianFluidMechanics6391](https://www.youtube.com/@australasianfluidmechanics6391)
+- [@oneracfd8725](https://www.youtube.com/@oneracfd8725)
 - [@NathanKutzAMATH](https://www.youtube.com/@NathanKutzAMATH)
 - [@eigensteve](https://www.youtube.com/@eigensteve) ([Fluids Playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQWO3ESiccZmPssvUDFHL4M))
 - [@3blue1brown](https://www.youtube.com/@3blue1brown)
@@ -71,6 +72,8 @@ YouTube channels
 
 YouTube videos
 -------
+- [DNS of the turbulent flow around a square cylinder at Re=22000](https://www.youtube.com/watch?v=c8zKWaxohng)
+- [Turbulent Boundary Layer (APS Gallery Submission)](https://www.youtube.com/watch?v=4KeaAhVoPIw&t=0s)
 - [Historical Figures of the Navier-Stokes Equations](https://youtu.be/DeW9Ihba3-8)
 - [Turbulent Flow is MORE Awesome Than Laminar Flow](https://youtu.be/5zI9sG3pjVU)
 - [Why $5/3$ is a fundamental constant for turbulence](https://youtu.be/_UoTTq651dE)
