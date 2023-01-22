@@ -14,12 +14,12 @@ Numerical Methods
 - Trefethen, N. (1994). [Finite Difference and Spectral Methods for Ordinary and Partial Differential Equations](https://people.maths.ox.ac.uk/trefethen/pdetext.html)
 - Barrett *et al.* (1994). Templates for the solution of linear systems ([pdf](https://netlib.org/templates/templates.pdf) [html](https://netlib.org/linalg/html_templates/node4.html))
 - Trefethen and Bau (1997). [Numerical linear algebra](https://people.maths.ox.ac.uk/trefethen/text.html) ([pdf]())
-- Bai *et al.* (2000). Templates for the solution of algebraic eigenvalue problems. ([pdf](https://epubs.siam.org/doi/pdf/10.1137/1.9780898719581.fm) [html](https://netlib.org/utk/people/JackDongarra/etemplates/node5.html))
+- Bai *et al.* (2000). Templates for the solution of algebraic eigenvalue problems ([pdf](https://epubs.siam.org/doi/pdf/10.1137/1.9780898719581.fm) [html](https://netlib.org/utk/people/JackDongarra/etemplates/node5.html))
 - Trefethen, N. (2000). [Spectral Methods in MATLAB](https://people.maths.ox.ac.uk/trefethen/spectral.html)
-- Ferziger *et al.* (2002). [Computational methods for fluid dynamics.](https://link.springer.com/book/10.1007/978-3-642-56026-2) ([pdf](https://www.researchgate.net/profile/Ghassan-Smaisim/post/FEM_mesh_generator/attachment/59d655b479197b80779acc79/AS%3A526929528274950%401502641197635/download/111+ferziger+peric+2002+computational+methods+for+fluid+dynamics+.pdf))
-- Saad, Y. (2003). [Iterative methods for sparse linear systems.]() ([pdf](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf))
-- Antoulas, A. (2009) [Approximation of Large-Scale Dynamical Systems](https://epubs.siam.org/doi/book/10.1137/1.9780898718713)
-- Moin, P. (2010). [Fundamentals of engineering numerical analysis.]() ([pdf](https://sv.20file.org/up1/1389_0.pdf))
+- Ferziger *et al.* (2002). [Computational methods for fluid dynamics](https://link.springer.com/book/10.1007/978-3-642-56026-2) ([pdf](https://www.researchgate.net/profile/Ghassan-Smaisim/post/FEM_mesh_generator/attachment/59d655b479197b80779acc79/AS%3A526929528274950%401502641197635/download/111+ferziger+peric+2002+computational+methods+for+fluid+dynamics+.pdf))
+- Saad, Y. (2003). [Iterative methods for sparse linear systems]() ([pdf](https://www-users.cse.umn.edu/~saad/IterMethBook_2ndEd.pdf))
+- Antoulas, A. (2009). [Approximation of Large-Scale Dynamical Systems](https://epubs.siam.org/doi/book/10.1137/1.9780898718713)
+- Moin, P. (2010). [Fundamentals of engineering numerical analysis]() ([pdf](https://sv.20file.org/up1/1389_0.pdf))
 - Kutz, N. (2013). [Data-Driven Modeling & Scientific Computation](https://global.oup.com/academic/product/data-driven-modeling-and-scientific-computation-9780199660346?q=Kutz&lang=en&cc=us)
 
 - The Art of Scientific Computing: [Vol. 1: Numerical Recipes in Fortran 77](http://s3.amazonaws.com/nrbook.com/book_F210.html) (1992) ([pdf](https://websites.pmc.ucsc.edu/~fnimmo/eart290c_17/NumericalRecipesinF77.pdf))
@@ -33,14 +33,17 @@ Dynamical Systems
 
 Stability Analysis
 ------
-- Schmid and Henningson (2001). [Stability and Transition in Shear Flows](https://link.springer.com/book/10.1007/978-1-4613-0185-1)
+- Schmid & Henningson (2001). [Stability and Transition in Shear Flows](https://link.springer.com/book/10.1007/978-1-4613-0185-1)
 - Charru, F. (2011). [Hydrodynamic Instabilities]() ([French pdf](http://www.lmm.jussieu.fr/~hoepffner/enseignement/charru.pdf))
 
 Turbulence
 ------
-- Tsinober, A (2018). [The Essence of Turbulence as a Physical Phenomenon.](https://link.springer.com/book/10.1007/978-94-007-7180-2)
-- Eckart, M (2019). [The Turbulence Problem: A Persistent Riddle in Historical Perspective.](https://link.springer.com/book/10.1007/978-3-030-31863-5) 
-- Eckart, M (2022). [Turbulence -- an Odyssey.](https://link.springer.com/book/10.1007/978-3-030-91459-2)
+- Tennekes & Lumley (1972). [A First Course in Turbulence](https://mitpress.mit.edu/9780262536301/a-first-course-in-turbulence/)
+- Pope, S. (2000). [Turbulent Flows](https://pope.mae.cornell.edu/TurbulentFlows.html) 
+- Lesieur, M (2008). [Turbulence in Fluids](https://link.springer.com/book/10.1007/978-1-4020-6435-7)
+- Tsinober, A (2018). [The Essence of Turbulence as a Physical Phenomenon](https://link.springer.com/book/10.1007/978-94-007-7180-2)
+- Eckart, M (2019). [The Turbulence Problem: A Persistent Riddle in Historical Perspective](https://link.springer.com/book/10.1007/978-3-030-31863-5) 
+- Eckart, M (2022). [Turbulence -- an Odyssey](https://link.springer.com/book/10.1007/978-3-030-91459-2)
  
 Other texts
 ------
@@ -74,7 +77,7 @@ YouTube videos
 - [Solving the Navier-Stokes equations in Python](https://youtu.be/BQLvNLgMTQE)
 - [Simulating Pipe Flow on a Staggered Grid in Python](https://youtu.be/rV8tD2nQfkk)
  
-Incredble talks
+Incredible talks
 -------
 - [Directed percolation and the route to turbulence by Dwight Barkley](https://www.youtube.com/watch?v=C1QsI8EiJC0)
 - [The route to turbulence by Dwight Barkley](https://www.youtube.com/watch?v=197brZdt2q4)
