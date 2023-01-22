@@ -28,7 +28,7 @@ Numerical Methods
 Dynamical Systems
 ------
 - [ChaosBook](https://chaosbook.org)
-- Gleick, J. (2008). Chaos: Making a New Science
+- Gleick, J. (2008). [Chaos: Making a New Science](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science#:~:text=Chaos%3A%20Making%20a%20New%20Science%20was%20the%20first%20popular%20book,contributed%20to%20the%20developing%20field.)
 - Strogatz S. (2018). [Nonlinear dynamics and Chaos](https://www.stevenstrogatz.com/books/nonlinear-dynamics-and-chaos-with-applications-to-physics-biology-chemistry-and-engineering) ([pdf](https://www.biodyn.ro/course/literatura/Nonlinear_Dynamics_and_Chaos_2018_Steven_H._Strogatz.pdf))
 
 Stability Analysis
