@@ -13,6 +13,7 @@ Numerical Methods
 ------
 - Trefethen, N. (1994). [Finite Difference and Spectral Methods for Ordinary and Partial Differential Equations](https://people.maths.ox.ac.uk/trefethen/pdetext.html)
 - Barrett *et al.* (1994). Templates for the solution of linear systems ([pdf](https://netlib.org/templates/templates.pdf) [html](https://netlib.org/linalg/html_templates/node4.html))
+- Heath, M. (1996). [Scientific Computing: An Introductory Survey](https://heath.cs.illinois.edu/scicomp/) ([pdf](https://e6.ijs.si/~roman/files/tmp/M.Heath-SComputing/scientific-computing-michael-t-heath.pdf))
 - Trefethen and Bau (1997). [Numerical linear algebra](https://people.maths.ox.ac.uk/trefethen/text.html) ([pdf]())
 - Bai *et al.* (2000). Templates for the solution of algebraic eigenvalue problems ([pdf](https://epubs.siam.org/doi/pdf/10.1137/1.9780898719581.fm) [html](https://netlib.org/utk/people/JackDongarra/etemplates/node5.html))
 - Trefethen, N. (2000). [Spectral Methods in MATLAB](https://people.maths.ox.ac.uk/trefethen/spectral.html)
