@@ -43,6 +43,7 @@ Turbulence and Fluid Mechanics
 - Tennekes & Lumley (1972). [A First Course in Turbulence](https://mitpress.mit.edu/9780262536301/a-first-course-in-turbulence/)
 - Pope, S. (2000). [Turbulent Flows](https://pope.mae.cornell.edu/TurbulentFlows.html) 
 - Lesieur, M (2008). [Turbulence in Fluids](https://link.springer.com/book/10.1007/978-1-4020-6435-7)
+- Kundu, Cohen, \& Dowling (2015). [Fluid mechanics](https://www.elsevier.com/books/fluid-mechanics/kundu/978-0-12-405935-1)
 - Tsinober, A (2018). [The Essence of Turbulence as a Physical Phenomenon](https://link.springer.com/book/10.1007/978-94-007-7180-2)
 - Eckart, M (2019). [The Turbulence Problem: A Persistent Riddle in Historical Perspective](https://link.springer.com/book/10.1007/978-3-030-31863-5) 
 - Eckart, M (2022). [Turbulence -- an Odyssey](https://link.springer.com/book/10.1007/978-3-030-91459-2)
@@ -51,6 +52,7 @@ Other texts
 ------
 - [SIAM Top 10 Algorithms](http://web.tecnico.ulisboa.pt/~mcasquilho/CD_Casquilho/legacy/PRINT/NotebookSC_1LP_22pp.pdf) by B. A. Cipra
 - [The Big Six Matrix Factorizations](https://www.cs.fsu.edu/~lacher/courses/COT4401/notes/cise_v2_i1/matrix.pdf) by G. W. Stewart
+- [Osborne Reynolds](https://www.uh.edu/engines/epi1529.htm) by J. H. Lienhard
 
 Laurete Tuckerman [Blog](https://blog.espci.fr/laurette/)
 -----
