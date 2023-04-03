@@ -1,15 +1,34 @@
 ---
-title: "Paper Title Number 1"
+title: "Krylov Methods for Large-Scale Dynamical Systems: Application in Fluid Dynamics"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/frantz2023krylov
+excerpt: 'This paper presents the complete theoretical framework underlying nekStab.'
+date: 2023-20-03
+venue: 'Appl. Mech. Rev.'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Frantz, R. A. S., Loiseau, J., and Robinet, J. (March 20, 2023). "Krylov Methods for Large-Scale Dynamical Systems: Application in Fluid Dynamics." ASME. Appl. Mech. Rev. May 2023; 75(3): 030802. https://doi.org/10.1115/1.4056808.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper presents the complete theoretical framework underlying nekStab.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://arxiv.org/abs/2301.12940)
+
+Recommended citation: 
+
+
+'''latex
+@article{frantz2023krylov,
+    author = {Frantz, R. A. S. and Loiseau, J.-Ch. and Robinet, J.-Ch.},
+    title = "{Krylov Methods for Large-Scale Dynamical Systems: Application in Fluid Dynamics}",
+    journal = {Applied Mechanics Reviews},
+    volume = {75},
+    number = {3},
+    year = {2023},
+    month = {03},
+    issn = {0003-6900},
+    doi = {10.1115/1.4056808},
+    url = {https://doi.org/10.1115/1.4056808},
+    note = {030802},
+    eprint = {https://asmedigitalcollection.asme.org/appliedmechanicsreviews/article-pdf/75/3/030802/6996354/amr\_075\_03\_030802.pdf},
+}
+'''
